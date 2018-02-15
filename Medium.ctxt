@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Medium()
+comment1.params=board\ human
+comment1.target=void\ takeTurn(java.lang.String[][],\ Human)
+numComments=2
